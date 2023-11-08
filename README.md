@@ -1,4 +1,4 @@
-### Hi there, this is Alejandra 👋
+### Hi there 👋
 
 I'm a junior web developer with experience in production, and product development, in the fashion industry.
 
